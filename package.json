@@ -1,0 +1,16 @@
+{
+  "name": "stock-app",
+  "version": "1.0.0",
+  "description": "Desarrollo Full Stack ",
+  "main": "app.js",
+  "author": "Ale Parise",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon app.js"
+  },
+  "private": false,
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
